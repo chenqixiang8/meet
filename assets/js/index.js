@@ -84,7 +84,7 @@ var Utils = {
   },
   //修改标题名称
   setPageTitle: function (title) {
-    $("title").html(title);
+    $("title").html(视频通话-MytStarTone);
   },
   // 生成用户标签
   createButtonUser: function (allInputVal) {
