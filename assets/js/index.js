@@ -1,7 +1,6 @@
 ﻿// SDK 配置
 var Config = {
-  RTC_APPID: "563aa08b4be2e3b74040245400955a22", //RTC 应用ID
-  RTM_APPID: "24271ff91b2ac45cccbe7b1ae2dec5d6", //RTM 应用ID
+  APPID: "ee0ca1b2bf559ea6823698acb0600e62", // 搴旂敤ID
   RTC_MODE: "live", //RTC 通信模式
   RTC_CODEC: "h264", //RTC 视频编码格式
   SELECT_CAMERA_DEVICE:
